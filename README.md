@@ -2,10 +2,10 @@
 # PS3Lib
 
 ## Description
-PS3Lib is a .NET library designed for interacting with PlayStation 3 consoles. This library supports PS3 HEN and provides functionalities to control and manage various aspects of the console.
+PS3Lib is a .NET library designed for interacting with PlayStation 3 consoles. This library supports PS3 HEN / CEX / DEX and provides functionalities to control and manage various aspects of the console.
 
 ## Features
-- Support for PS3 HEN
+- Support for PS3 HEN / CEX / DEX
 - Built with .NET 8.0
 - 32-bit application generation
 
